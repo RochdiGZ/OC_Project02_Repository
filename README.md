@@ -51,13 +51,14 @@ III. Activation et désactivation de l'environnement virtuel Project02_env à l'
 	4. Désactivation de l'environnement virtuel à l'aide du terminal de "Git Bash" ou "PyCharm" en exécutant la commande suivante :
 	deactivate
 
-IV. Récupération du repository depuis GitHub à partir du lien https://github.com/RochdiGZ/GUEZGUEZ_Rochdi_01_repo_062022.git 
+IV. Récupération du repository depuis GitHub à partir du lien https://github.com/RochdiGZ/GUEZGUEZ_Rochdi_01_repo_062022.git
+
 	1. Accédez au terminal "Git Bash" ou "Pycharm" pour cloner le projet en local sur votre ordinateur
 	2. Tapez et Exécutez la commande ci-dessous en utilisant le lien ci-dessus
 	git clone https://github.com/RochdiGZ/GUEZGUEZ_Rochdi_01_repo_062022.git 
 	3. Lancez PyCharm et ouvrir le projet ajouté en local, dans le dossier Project02 (dossier de travail), nommé GUEZGUEZ_Rochdi_01_repo_062022 et ayant été 
 	hébergé sur GitHub et contenant les fichiers suivants :
-		* README.md : contient les étapes étapes à suivre pour exécuter le code Python relatif au projet 02
+		* README.md : contient les étapes à suivre pour exécuter le code Python relatif au projet 02
 		* Requirements.txt : contient tous les paquets (packages) nécessaires à l'exécution des scripts Python
 		* main.py : contient le script principal pour l'exécuter dans l'environnement virtuel Project02_env
 		* des autres scripts Python dont chacun contient des modules nécessaires pour l'exécution du script principal main.py
